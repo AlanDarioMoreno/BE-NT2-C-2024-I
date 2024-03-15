@@ -26,3 +26,4 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 - Augusto Javier Doldán, [augustodoldan](https://github.com/augustodoldan).
 - Daniel Guzman, dguzman-ort.
 - Federico Nintzel, fedentz
+- Alan Moreno, AlanDarioMoreno
